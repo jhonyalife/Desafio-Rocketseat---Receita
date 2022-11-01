@@ -11,9 +11,8 @@ body {
 }
 .container{
     background-color: #ffff;
-    width: 100%;
     max-width: 1000px;
-    padding: 60px;
+    padding: 10px 30px;
     border-radius: 10px;
     margin: 30px auto;
 
